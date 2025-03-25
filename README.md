@@ -65,4 +65,4 @@ Contributions are welcome! Feel free to open issues and submit pull requests.
 This project is licensed under the MIT License.
 
 ## Output
-![Sudoku Solver Screenshot](https://github.com/Muradhameed921/Sudoku-Puzzle-Solver/blob/main/O1.jpg)
+![BERT Text Summarization Screenshot](https://github.com/Muradhameed921/BERT-for-Text-Summarization/blob/main/BERT.png)
